@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://mophny.github.io/myprojcet/)
+- [Публичная страница на GitHub Pages](https://mophny.github.io/myproject/)
